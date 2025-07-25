@@ -40,7 +40,7 @@ resume-url: assets/resume/Resume.pdf #https://drive.google.com/file/d/13Z3duVzh-
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/donovan-farar-dev     # https://www.linkedin.com/in/donovan-farar-dev 
+  linkedin: https://www.linkedin.com/in/donovan-farar-dev/     # https://www.linkedin.com/in/donovan-farar-dev 
   github: https://github.com/dfardev    # https://github.com/dfardev
   stackoverflow: # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
