@@ -7,7 +7,7 @@ skills:
   - 2D game scripting
   - C#
 
-main-image: /Trick-or-Treat-Towers
+main-image: /Trick-or-Treat-Towers.png
 ---
 
 # This is another demo
