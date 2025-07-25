@@ -15,13 +15,15 @@ title: Donovan's Portfolio # This is what shows up in the tab of the browser
 name: Donovan Farar
 headline: Software engineer specializing in gameplay programming, technical design and game design
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Welcome to my portfolio! I’m Donovan Farar, a software engineer with a passion for game and technical design. 
-  For the past 5 years, I’ve been working with game engines like Unity and Unreal, 
-  building small-scale projects and participating in game jams that pushed my creativity and problem-solving skills. 
+  I’m Donovan Farar, a software engineer with a passion for game and technical design. 
+  For the past 6 years, I’ve been working with Unity and Unreal, 
+  building small-scale projects as part of academic projects as well as VR research studies.
+  I've participated in game jams and earned a certificate in game design, which pushed my creativity and problem-solving skills. 
   These experiences have shaped my approach to development—fast, flexible, and focused on delivering engaging player experiences.
-  Now, I’m channeling everything I’ve learned into my first full-length game, 
-  which I’m currently developing alongside a talented team. 
+  Now I’m creating my first full-length game, which I’m currently developing alongside a talented team. 
   From systems programming to gameplay mechanics, I thrive at the intersection of design and technology.
+  Games may be my passion, but I also excel in database programming and management coming from a healthcare background
+  with nearly 3 years of experience in SQL, Azure, and database mangagment tools.
 
 
 
@@ -31,14 +33,14 @@ profile_image: ./assets/images/profile-image/portfolioprofile.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: Resume.pdf #https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  linkedin: test    # https://www.linkedin.com/in/donovan-farar-dev 
+  github: leea12    # https://github.com/dfardev
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
