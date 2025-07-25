@@ -8,7 +8,6 @@ skills:
   - C#
 
 main-image: /TrickorTreatTowersTitle.png
-Link: [Game Link](https://team-scaredy-cats.itch.io/trick-or-treat-towers)
 ---
 
 # Cozy Game Jam 2023
