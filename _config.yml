@@ -7,20 +7,26 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Donovan's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Donovan Farar
+headline: Software engineer specializing in gameplay programming, technical design and game design
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my portfolio! I’m Donovan Farar, a software engineer with a passion for game and technical design. 
+  For the past 5 years, I’ve been working with game engines like Unity and Unreal, 
+  building small-scale projects and participating in game jams that pushed my creativity and problem-solving skills. 
+  These experiences have shaped my approach to development—fast, flexible, and focused on delivering engaging player experiences.
+  Now, I’m channeling everything I’ve learned into my first full-length game, 
+  which I’m currently developing alongside a talented team. 
+  From systems programming to gameplay mechanics, I thrive at the intersection of design and technology.
+
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/portfolioprofile.jpg
 
 
 # Link your resume
