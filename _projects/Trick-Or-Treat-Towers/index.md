@@ -7,7 +7,8 @@ skills:
   - 2D game scripting
   - C#
 
-main-image: /TrickorTreatTowers.png
+main-image: /TrickorTreatTowersTitle.png
+Link: [Game Link](https://team-scaredy-cats.itch.io/trick-or-treat-towers)
 ---
 
 # Cozy Game Jam 2023
