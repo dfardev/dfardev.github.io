@@ -7,8 +7,8 @@ skills:
   - 2D game scripting
   - C#
 
-main-image: /Trick-or-Treat-Towers.png
+main-image: /TrickorTreatTowers.png
 ---
 
-# This is another demo
+# Cozy Game Jam 2023
 
