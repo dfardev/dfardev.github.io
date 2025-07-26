@@ -11,6 +11,8 @@ skills:
 
 main-image: #/TrickorTreatTowersTitle.png
 ---
-[![Watch the video](https://img.youtube.com/vi/YUvCpCj5uOs/3.jpg)](https://youtu.be/YUvCpCj5uOs)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YUvCpCj5uOs" target="_blank">
+ <img src="http://img.youtube.com/vi/YUvCpCj5uOs/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" /> </a>
+
 # Senior Undergrad Capstone Project
 
