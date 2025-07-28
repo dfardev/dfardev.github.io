@@ -11,7 +11,8 @@ skills:
 
 main-image: /DRIVRRC.png
 ---
-## Presentation {% include youtube-video.html id="{YUvCpCj5uOs}" autoplay= "false"%}
+## Demo Video {% include youtube-video.html id="YUvCpCj5uOs" autoplay= "false"%}
+## Presentation [Final Presentation](https://docs.google.com/presentation/d/1_EsmamCCo5LLaXm3lc_WmKcbVw0uyfsPoHbO7NSVjRA/edit?slide=id.p1#slide=id.p1)
 
 <!-- <div >
     <div style="width: 33%; float: left">
