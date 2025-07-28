@@ -1,16 +1,16 @@
 ---
 layout: post
-title: D.R.I.V.R. (Driving Reality Interface in Virtual Reality)
-description: Ungergraduate Senior Capstone Project. Worked with a small team over the course of a 4 months to deliver a proof of concept software. 
- Worked directly with a simulation company requesting simulation software that would allow truck drivers to remotely operate fleets of vehicles.
- the end result was created and demoed in Unity. I acted as the lead programmer/scripter and as the project lead.
+title: Sonos Teardown
+description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
 skills: 
-  - Unity
-  - 3D game scripting
-  - C#
+  - drumel
+  - microprobing
+  - Electronics Teardown
+  - PCB analysis
+  - audio system design
 
-main-image: #/TrickorTreatTowersTitle.png
+main-image: /sonos.png
 ---
 
-# Senior Undergrad Capstone Project
+# This is another demo
 
