@@ -11,9 +11,9 @@ skills:
 
 main-image: /DRIVRRC.png
 ---
+## Presentation {% include youtube-video.html id="{YUvCpCj5uOs}" autoplay= "false"%}
 
-
-<div >
+<!-- <div >
     <div style="width: 33%; float: left">
         <h3>View the Final Presentation:</h3>
         <a href="https://docs.google.com/presentation/d/1_EsmamCCo5LLaXm3lc_WmKcbVw0uyfsPoHbO7NSVjRA/edit?slide=id.p1#slide=id.p1" target="_blank">
@@ -26,6 +26,6 @@ main-image: /DRIVRRC.png
         <a href="http://www.youtube.com/watch?feature=player_embedded&v=YUvCpCj5uOs" target="_blank">
         <img src="http://img.youtube.com/vi/YUvCpCj5uOs/mqdefault.jpg" alt="Watch the video" width="240" height="180" /> </a>
     </div>
-</div>
+</div> -->
 # Senior Undergrad Capstone Project
 
