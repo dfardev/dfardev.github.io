@@ -17,7 +17,7 @@ main-image: /DRIVRRC.png
     <div style="width: 33%; float: left">
         <h3>View the Final Presentation:</h3>
         <a href="https://docs.google.com/presentation/d/1_EsmamCCo5LLaXm3lc_WmKcbVw0uyfsPoHbO7NSVjRA/edit?slide=id.p1#slide=id.p1" target="_blank">
-        <img src="/DRIVRRC.png" alt="View the Presentation" width="240" height="180" /> </a>
+        <img src=/DRIVRRC.png alt="View the Presentation" width="240" height="180" /> </a>
     </div>
 </div>
 <div >
