@@ -13,5 +13,3 @@ skills:
 main-image: /VRResearch.png
 ---
 ## > [Complete Final Presentation Link](https://docs.google.com/presentation/d/1Hr3qyJ_QW1wxc01k4QOCok5g2-9l29wBS8pCFzCtRyE/edit?slide=id.p1#slide=id.p1)
-
-## Demo Video {% include youtube-video.html id="YUvCpCj5uOs" autoplay= "false"%}
