@@ -149,7 +149,7 @@ lemon theme:
 collections:
   projects:
     output: true
-    permalink: /:path/
+    permalink: /projects/:path/
 
 
 markdown: kramdown
