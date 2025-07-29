@@ -9,6 +9,6 @@ skills:
 
 main-image: /TrickorTreatTowersTitle.png
 ---
-
+## [Play the Game on itch.io](https://team-scaredy-cats.itch.io/trick-or-treat-towers)
 # Cozy Game Jam 2023
 
