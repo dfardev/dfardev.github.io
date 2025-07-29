@@ -12,4 +12,5 @@ skills:
 
 main-image: /VRResearch.png
 ---
-## > [Complete Final Presentation Link](https://docs.google.com/presentation/d/1Hr3qyJ_QW1wxc01k4QOCok5g2-9l29wBS8pCFzCtRyE/edit?slide=id.p1#slide=id.p1)
+## > [Complete Final Presentation Link](https://docs.google.com/presentation/d/16h5roV8ao6l_Ij0iHahhKTBk38w4idKkHpSB4uTsIxU/edit?slide=id.p1#slide=id.p1)
+## > [Research Paper Link](https://docs.google.com/document/d/11AXWWtreEawF7ruguVOi50WOAqnLniM4/edit#heading=h.gjdgxs)
