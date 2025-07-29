@@ -15,21 +15,18 @@ title: Donovan's Portfolio # This is what shows up in the tab of the browser
 name: Donovan Farar
 headline: Software engineer specializing in gameplay programming, technical design and game design
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I’m Donovan Farar, a software engineer with a passion for game and technical design. 
-  For the past 6 years, I’ve been working with Unity and Unreal, 
-  building small-scale projects as part of academic projects as well as VR research studies.
+  For the past 6 years I’ve been working with Unity and Unreal Engine, building small-scale projects as part of academic pursuits and research studies.
   I've participated in game jams and earned a certificate in game design, which pushed my creativity and problem-solving skills. 
   These experiences have shaped my approach to development—fast, flexible, and focused on delivering engaging player experiences.
-  Now I’m creating my first full-length game, which I’m currently developing alongside a talented team. 
-  From systems programming to gameplay mechanics, I thrive at the intersection of design and technology.
-  Games may be my passion, but I also excel in UX research studies and methodologies, as well as 
-  database programming and management. I professionally come from a aoftware engineer in healthcare background
-  with nearly 3 years of experience in SQL, Azure, and database mangagment tools.
+  Now I’m developing my first full-length game alongside a talented team. 
+  From systems programming to gameplay mechanics and technical design, I thrive at the intersection of design and technology.
+  Working in games may be my passion, however I also excel in UX research, database scripting and cloud database management.
+  I professionally come from a software engineer in healthcare background with nearly 3 years of experience in SQL, Azure, and various database management tools.
 
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/portfolioprofile.jpg
+profile_image: ./assets/images/profile-image/portfolioprofile2.jpg
 
 
 # Link your resume
