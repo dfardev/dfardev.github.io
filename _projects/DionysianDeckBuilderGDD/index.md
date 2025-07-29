@@ -7,8 +7,7 @@ skills:
   - Prototyping
 
 main-image: /DionysianDeckBuilder.png
-resume-url: /Doc1.pdf
 ---
-## > [Complete Final Presentation Link](https://docs.google.com/presentation/d/1Hr3qyJ_QW1wxc01k4QOCok5g2-9l29wBS8pCFzCtRyE/edit?slide=id.p1#slide=id.p1)
+## > [Complete GDD Link](https://drive.google.com/drive/folders/1u0EkD7jE_I7gnAiQ1gv0s900-rWeAimR)
 
 ## Demo Video {% include youtube-video.html id="UxQCYW2zMAo" autoplay= "false"%}
