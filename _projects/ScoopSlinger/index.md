@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scoop Slinger
-description: Functioned as a gameplay designer/programmer and user design researcher on a team to produce a survival horror FPS where players fend off ice cream monsters with scoops of ice cream. Made with Unity and published to itch.io. 
+description: Served as both a gameplay designer/programmer and user experience researcher on a team project to develop a survival horror first-person shooter, where players combat ice cream-themed monsters using scoops of ice cream. Built in Unity and published on itch.io.
 skills: 
   - Unity
   - 3D game scripting

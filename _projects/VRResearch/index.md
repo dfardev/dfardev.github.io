@@ -1,7 +1,8 @@
 ---
 layout: post
-title: UX VR Research Study
-description: Using HMDs of Various Complexity to Compare Gaze-Based and Button-Based Selection Methods Led a student research team to study different VR selection methods (both industry standard and research-based methods) in order to quantitatively and qualitatively determine what selection methods were best suited to virtual environments of varying complexity. Deployed extensive, multi-staged iterative user studies to gauge user base and identify best-fit selection methods, resulting in utilization of Unity, VR + AR toolkits and Meta Quest II. 
+title: UX VR Comparative Study of Gaze-Based vs. Button-Based Selection Methods Using HMDs of Varying Complexity
+description: Led a student research team in a comprehensive study evaluating VR selection techniques (both industry-standard and experimental) in immersive environments of differing complexity. Designed and executed multi-phase, iterative user studies to collect quantitative and qualitative data on user interaction patterns and preferences. Utilized Unity, AR/VR toolkits, and the Meta Quest II to prototype, deploy, and test interaction models. This ultimately identified optimal selection methods when presented with diverse virtual scenarios.
+ 
 skills: 
   - Unity
   - VR

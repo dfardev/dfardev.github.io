@@ -1,7 +1,7 @@
 ---
 layout: post
-title: IHTEFY
-description: Current Unreal Engine game project I.H.T.E.F.Y. (I Hope This Email Finds You). Leading a small team of cross discipline talents to create an office simulation horror game in Unreal Engine. Currently in the early stages of design and development. I fulfill the lead technical design and programming roles for the project. The current release is slated for late 2027. 
+title:  I.H.T.E.F.Y. (I Hope This Email Finds You)
+description: I am currently serving as lead technical designer and programmer on I.H.T.E.F.Y., a narrative-driven office simulation horror game built in Unreal Engine. I am leading a small, cross-disciplinary team through the early stages of design and development, focusing on gameplay systems, technical implementation, and team coordination. The project is targeting a late 2027 release.
 skills: 
   - Unreal Engine
   - 3D game scripting

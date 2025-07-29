@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dionysian Deck Builder GDD
-description:  Designed gameplay elements and base player loop for a game that combines RPG-style gameplay with deck building and card battle mechanics.
+title: Dionysian Deck Builder (GDD and Prototype)
+description: As part of a game design certificate program, I collaborated with a small team to design core gameplay systems and a foundational player loop for a game that blends RPG mechanics with deck-building and card-based combat. In my role as Technical Designer, I developed a low-fidelity prototype that showcased the core gameplay experience and validated key design concepts.
 skills: 
   - GDD
   - Prototyping

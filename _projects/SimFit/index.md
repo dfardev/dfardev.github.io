@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SimFit Startup
-description: Led cross-functional SimFit design and research team to create a user-centered app to gamify workouts utilizing agile sprint methodologies. Deployed extensive, multi-staged user studies to gauge user base and identify best-fit applications for the product, resulting in utilization of Figma, Unity, VR + AR toolkits and Meta Quest II to create requested user-facing features in a functional pipeline working from product to design. I was responsible for the deployment of low-fidelity prototypes focusing on AR & VR capabilities to increase product gamification based on iterative user feedback. I can't share the Unity prototype that was created, but I also worked on low fidelity prototypes for gamification (one linked below).
+description: Led the cross-functional SimFit design and research team in developing a user-centered fitness application that gamifies workouts through immersive technologies. Utilized agile sprint methodologies to guide development and coordinated multi-phase user studies to define target audiences and align features with user needs. The project integrated tools such as Figma, Unity, AR/VR toolkits, and Meta Quest 2 to prototype and deliver key user-facing features. My primary contributions focused on designing and deploying low-fidelity AR and VR prototypes to enhance engagement and gamification, as well as iterating based on continuous user feedback gained from user surveys and post-demo surveys. While the Unity prototype cannot be publicly shared, the low-fidelity gamification prototype linked below demonstrates core interaction concepts.
 skills: 
   - Unity
   - UX Research
