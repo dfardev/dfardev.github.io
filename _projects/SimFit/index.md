@@ -5,6 +5,9 @@ description: Led the cross-functional SimFit design and research team in develop
 skills: 
   - Unity
   - UX Research
+  - Figma
+  - Prototyping
+  - Wireframing
   - Qualitative Analysis
   - Quantitative Analysis
   - 3D game scripting

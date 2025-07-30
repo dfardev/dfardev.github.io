@@ -6,6 +6,8 @@ skills:
   - Unity
   - 3D game scripting
   - C#
+  - Prototyping
+  - Wireframing
 
 main-image: /ScoopSlinger.png
 ---

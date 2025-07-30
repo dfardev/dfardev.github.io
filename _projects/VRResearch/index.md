@@ -10,6 +10,7 @@ skills:
   - Google Cardboard
   - 3D game scripting
   - C#
+  - Prototyping
 
 main-image: /VRResearch.png
 ---

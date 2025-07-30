@@ -7,6 +7,9 @@ skills:
   - 3D game scripting
   - Blueprints
   - C++
+  - Figma
+  - Prototyping
+  - Wireframing
 
 main-image: /IHTEFY.png
 ---
